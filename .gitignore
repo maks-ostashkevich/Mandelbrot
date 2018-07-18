@@ -1,3 +1,3 @@
 *.vcxproj
 *.filters
-dir_to_ignore/Debug
+Debug/
